@@ -1,13 +1,20 @@
 # 📱 Personal Portfolio App
 
-A Flutter application showcasing developer profile, projects gallery, and contact information.
+A multi-screen Flutter mobile & web application showcasing developer profile, featured projects, and contact details.
 
-## 🛠️ Features
-- **Profile Screen:** Personal info & social links.
-- **Projects Showcase:** Interactive grid view of built applications.
-- **Contact Form:** Direct communication form with user inputs.
-- **Navigation:** Bottom Navigation Bar for smooth app flow.
+---
 
-## 🚀 Tech Stack
-- **Framework:** Flutter
-- **Language:** Dart
+## ✨ Features
+
+* **Profile Overview:** Displays profile picture, user details (**Ahmed Ali - Flutter Developer**), and stats (Posts, Followers, Following).
+* **Projects Showcase:** Interactive grid view featuring apps like *Fintech*, *Task Flow*, *Foodie App*, *ShopEase*, *FitWell*, *GlobeTrotter*, and *ZenSpace*.
+* **Contact Screen:** Displays direct contact information (Email, Phone, Location, LinkedIn, GitHub) alongside an interactive **Send Me a Message** form with input validation.
+* **Seamless Navigation:** Bottom Navigation Bar allowing fast switching between `myProfile`, `myProjects`, and `contactMe`.
+
+---
+
+## 🛠️ Tech Stack
+
+* **Framework:** Flutter
+* **Language:** Dart
+* **Design Patterns:** Custom Reusable Widgets & Responsive Grid Views
