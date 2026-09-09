@@ -1,20 +1,17 @@
-# 📱 Personal Portfolio App
+# first_project
 
-A multi-screen Flutter mobile & web application showcasing developer profile, featured projects, and contact details.
+A new Flutter project.
 
----
+## Getting Started
 
-## ✨ Features
+This project is a starting point for a Flutter application.
 
-* **Profile Overview:** Displays profile picture, user details (**Ahmed Ali - Flutter Developer**), and stats (Posts, Followers, Following).
-* **Projects Showcase:** Interactive grid view featuring apps like *Fintech*, *Task Flow*, *Foodie App*, *ShopEase*, *FitWell*, *GlobeTrotter*, and *ZenSpace*.
-* **Contact Screen:** Displays direct contact information (Email, Phone, Location, LinkedIn, GitHub) alongside an interactive **Send Me a Message** form with input validation.
-* **Seamless Navigation:** Bottom Navigation Bar allowing fast switching between `myProfile`, `myProjects`, and `contactMe`.
+A few resources to get you started if this is your first Flutter project:
 
----
+- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
+- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
 
-## 🛠️ Tech Stack
-
-* **Framework:** Flutter
-* **Language:** Dart
-* **Design Patterns:** Custom Reusable Widgets & Responsive Grid Views
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
